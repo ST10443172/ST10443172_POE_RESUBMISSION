@@ -38,9 +38,4 @@ Functionality
 Key code components:
 -MainActivityScreen: Handles data entry, saving, and navigation.
 - DetailedViewScreen: Displays detailed data for each day.
-- Data Storage**: Uses parallel arrays for storing user data.
-
-## How to Run
-
-1. Clone the repository:
-   git clone https://github.com/yourusername/hydration-haven.git
+- Data Storage**: Uses parallel arrays for storing user d
